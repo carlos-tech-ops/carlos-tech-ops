@@ -9,7 +9,7 @@ Each repository demonstrates infrastructure control, privileged access enforceme
 
 - 🧱 **Linux Infrastructure Hardening**
 - 🤖 **Ansible Automation & GitHub Ops**
-- 🌐 **SSH, Firewalls, VPNs (Tailscale), Privileged Access Control**
+- 🌐 **SSH, Firewalls, VPNs (Tailscale), and Privileged Access Control**
 - ☁️ **Pursuing AWS & CompTIA Security+ Certifications**
 - 🧠 **Documenting hands-on labs to validate technical mastery**
 
@@ -20,8 +20,8 @@ Each repository demonstrates infrastructure control, privileged access enforceme
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [`ansible-ssh-hardening`](https://github.com/carlos-tech-ops/ansible-ssh-hardening) | Hardened SSH access using Ansible, fail2ban, and Tailscale VPN | `Ansible`, `SSH`, `firewalld`, `Tailscale` |
-| [`linux-storage-backup-lab`](https://github.com/carlos-tech-ops/linux-storage-backup-lab) | LVM provisioning, `rsync`-based backup, and recovery lab | `LVM`, `rsync`, `bash` |
-| [`linux-networking-lab`](https://github.com/carlos-tech-ops/linux-networking-lab) | IP configuration, firewall rules, routing, SSH service validation | `nmcli`, `firewalld`, `nmap`, `sshd_config` |
+| [`linux-storage-backup-lab`](https://github.com/carlos-tech-ops/linux-storage-backup-lab) | LVM provisioning, rsync-based backup, and disaster recovery lab | `LVM`, `rsync`, `bash` |
+| [`linux-networking-lab`](https://github.com/carlos-tech-ops/linux-networking-lab) | IP configuration, firewall rules, routing, and SSH service validation | `nmcli`, `firewalld`, `nmap`, `sshd_config` |
 | [`ansible-linux-maintenance`](https://github.com/carlos-tech-ops/ansible-linux-maintenance) | Automated package updates and system info reporting | `Ansible`, `yum`, `bash`, `cron` |
 
 ---
@@ -30,8 +30,15 @@ Each repository demonstrates infrastructure control, privileged access enforceme
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-semeao-04938a357/)
 - 🛡️ [GitHub Repositories](https://github.com/carlos-tech-ops?tab=repositories)
-- 🌍 Based in Luton, UK — targeting **remote U.S. tech roles**
-- 🎯 Mission: Build **InfraHardener™** — a precision-driven DevSecOps brand
+
+---
+
+## 🔧 Remote Readiness
+
+- 🕓 **Timezone-flexible:** comfortable with EST/PST partial overlap  
+- ⚙️ **Async-native:** experienced in Git-based delivery and asynchronous workflows  
+- 💵 **Value-aligned compensation:** focused on U.S. standards for remote DevSecOps delivery  
+- 🌍 **Based in Greater London, UK** — remote-native and globally adaptable
 
 ---
 
