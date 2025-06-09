@@ -1,7 +1,7 @@
 # Carlos Semeao | Linux & DevSecOps Apprentice ⚙️🔐
 
-I document hands-on automation labs focused on **Linux hardening**, **Ansible**, and **secure remote access**.  
-Every repository in this profile is crafted to demonstrate infrastructure control, privileged access enforcement, and automation clarity — aligned with remote-ready DevSecOps roles
+I build and document real-world labs focused on **Linux hardening**, **Ansible automation**, and **secure remote access**.  
+Each repository demonstrates infrastructure control, privileged access enforcement, and automation precision — aligned with **remote-ready DevSecOps roles**.
 
 ---
 
@@ -9,20 +9,20 @@ Every repository in this profile is crafted to demonstrate infrastructure contro
 
 - 🧱 **Linux Infrastructure Hardening**
 - 🤖 **Ansible Automation & GitHub Ops**
-- 🌐 **SSH, Firewalls, VPNs (Tailscale), and Privileged Access Control**
-- ☁️ **Path to AWS + CompTIA Security+ Certification**
-- 🧠 **Documenting everything I learn through real-world GitHub projects**
+- 🌐 **SSH, Firewalls, VPNs (Tailscale), Privileged Access Control**
+- ☁️ **Pursuing AWS & CompTIA Security+ Certifications**
+- 🧠 **Documenting hands-on labs to validate technical mastery**
 
 ---
 
-## 🔧 My GitHub Projects
+## 🔧 Featured Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [`ansible-ssh-hardening`](https://github.com/carlos-tech-ops/ansible-ssh-hardening) | Hardened SSH access with Ansible, fail2ban, and Tailscale | `Ansible`, `SSH`, `firewalld`, `Tailscale` |
-| [`linux-storage-backup-lab`](https://github.com/carlos-tech-ops/linux-storage-backup-lab) | LVM provisioning, rsync backups, and disaster recovery | `LVM`, `rsync`, `bash` |
-| [`linux-networking-lab`](https://github.com/carlos-tech-ops/linux-networking-lab) | IP, diagnostics, routing, firewall, and SSH service validation | `nmcli`, `firewalld`, `nmap`, `sshd_config` |
-| [`ansible-linux-maintenance`](https://github.com/carlos-tech-ops/ansible-linux-maintenance) | Automated updates and system info reporting | `Ansible`, `yum`, `bash`, `cron` |
+| [`ansible-ssh-hardening`](https://github.com/carlos-tech-ops/ansible-ssh-hardening) | Hardened SSH access using Ansible, fail2ban, and Tailscale VPN | `Ansible`, `SSH`, `firewalld`, `Tailscale` |
+| [`linux-storage-backup-lab`](https://github.com/carlos-tech-ops/linux-storage-backup-lab) | LVM provisioning, `rsync`-based backup, and recovery lab | `LVM`, `rsync`, `bash` |
+| [`linux-networking-lab`](https://github.com/carlos-tech-ops/linux-networking-lab) | IP configuration, firewall rules, routing, SSH service validation | `nmcli`, `firewalld`, `nmap`, `sshd_config` |
+| [`ansible-linux-maintenance`](https://github.com/carlos-tech-ops/ansible-linux-maintenance) | Automated package updates and system info reporting | `Ansible`, `yum`, `bash`, `cron` |
 
 ---
 
@@ -30,8 +30,8 @@ Every repository in this profile is crafted to demonstrate infrastructure contro
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos-semeao-04938a357/)
 - 🛡️ [GitHub Repositories](https://github.com/carlos-tech-ops?tab=repositories)
-- 🌍 Based in Luton, UK — targeting **remote U.S. tech jobs**
-- 🎯 Mission: Build InfraHardener™ — a personal DevSecOps brand
+- 🌍 Based in Luton, UK — targeting **remote U.S. tech roles**
+- 🎯 Mission: Build **InfraHardener™** — a precision-driven DevSecOps brand
 
 ---
 
@@ -39,5 +39,3 @@ Every repository in this profile is crafted to demonstrate infrastructure contro
 
 > “Control is survival. Clarity is the weapon. I don't follow trends — I build systems.”  
 > — Carlos Semeao
-
----
