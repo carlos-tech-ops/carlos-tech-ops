@@ -1,7 +1,7 @@
-# Carlos Semeao | DevSecOps Apprentice 🔐🧠🇬🇧
+# Carlos Semeao | Linux & DevSecOps Apprentice ⚙️🔐
 
-👋 Welcome. I'm Carlos.  
-I'm forging a silent career in **Linux, Cloud Security, and Automation**, building skills that speak louder than noise.
+I document hands-on automation labs focused on **Linux hardening**, **Ansible**, and **secure remote access**.  
+Every repository in this profile is crafted to demonstrate infrastructure control, privileged access enforcement, and automation clarity — aligned with remote-ready DevSecOps roles
 
 ---
 
