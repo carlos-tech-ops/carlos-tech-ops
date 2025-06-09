@@ -1,6 +1,6 @@
 # Carlos Semeao | DevSecOps Apprentice 🔐🧠🇬🇧
 
-👋 Welcome. I'm Carlos — a former train cleaner turned cyber strategist.  
+👋 Welcome. I'm Carlos.  
 I'm forging a silent career in **Linux, Cloud Security, and Automation**, building skills that speak louder than noise.
 
 ---
