@@ -46,3 +46,13 @@ Each repository demonstrates infrastructure control, privileged access enforceme
 
 > “Control is survival. Clarity is the weapon. I don't follow trends — I build systems.”  
 > — Carlos Semeao
+>
+> ---
+>
+> ## 🤝 GitHub Sponsorships
+
+I proudly support:
+
+- [Jeff Geerling (geerlingguy)](https://github.com/geerlingguy) – Ansible roles & automation
+- [Thomas Sjögren (konstruktoid)](https://github.com/konstruktoid) – Linux hardening and security
+- [Sebastian Gumprich (rndmh3ro)](https://github.com/rndmh3ro) – DevSecOps and CIS/STIG compliance
