@@ -10,7 +10,7 @@ Each repository demonstrates infrastructure control, privileged access enforceme
 - 🧱 **Linux Infrastructure Hardening**
 - 🤖 **Ansible Automation & GitHub Ops**
 - 🌐 **SSH, Firewalls, VPNs (Tailscale), and Privileged Access Control**
-- ☁️ **Pursuing AWS & CompTIA Security+ Certifications**
+- ☁️ **Pursuing AWS & CompTIA Security+ Linux+ Certifications**
 - 🧠 **Documenting hands-on labs to validate technical mastery**
 
 ---
